@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 120px;
+    text-align: center;
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.qrcode{
+    display: inline-block;
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem;
+}
+.qrimage{
+    border-radius: 1rem;
+}
+.cardheading{
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+.attribution{
+    margin-top: 2rem; 
+    font-size: larger;
+}
+.front{
+    text-decoration: none;
+}
+.nikhil{
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+}
